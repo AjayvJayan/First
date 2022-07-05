@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Hollow&family=Bungee+Outline&family=Merriweather:wght@900&family=Rubik+Mono+One&family=Rubik+Moonrocks&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(rgb(230, 230, 230), rgba(250, 0, 0, 0.182));
+}
+
+.nav {
+    width: 100%;
+    margin-top: -10px;
+    position: fixed;
+    background-color: white;
+}
+
+#ima h1 {
+    color: black;
+}
+
+#ima p {
+    color: rgb(136, 69, 83);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+}
+
+.it {
+    text-shadow: 2px 2px 2px red;
+    font-size: 30px;
+    margin: 20px;
+    display: inline;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.it:hover {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+#im {
+
+    margin-top: 60px;
+    width: 500px;
+    height: 500px;
+    border: solid 2px red;
+    border-radius: 50%;
+}
+
+#vi {
+    margin-left: 60px;
+    border: 20px solid rgb(0, 0, 0);
+    width: 90%;
+    background-image: linear-gradient(to bottom right, white, rgb(137, 154, 190), red);
+}
+
+#vi iframe {
+    height: 500px;
+}
+
+#wiki iframe {
+    width: 60%;
+    height: 500px;
+    border: 10px solid black;
+
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    color: rgb(162, 106, 247);
+    text-decoration: underline;
+}
+
+.book a:hover{
+    color: red;
+    text-decoration: underline;
+}
+#inst{
+    margin-top: 10px;
+}
+ #k{
+    font-size: 30px;
+}
+.book a{
+    color: rgb(10, 10, 10);
+}
